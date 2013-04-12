@@ -1,4 +1,4 @@
-honeynet-project
-================
+A Honeynet Project
+==================
 
-Honeynet Project
+Space for reports, scripts, etc. related to a course project.
