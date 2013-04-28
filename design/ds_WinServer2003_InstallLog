@@ -1,0 +1,16 @@
+.NET 2.0
+.NET 4.0
+VC 2010 Redistributable Packages
+MySQL (5.6.11.0)
+PHP (5.4.14) 
+Wordpress (3.1, old version). 
+
+MySQL
+=====
+TCP/IP Port 3306 (port opened in Windows Firewall)
+Superadmin: root / Trebek80aintsobad
+Service Name: MySQL56
+
+Wordpress
+=========
+
